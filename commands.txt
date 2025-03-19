@@ -1,0 +1,11 @@
+1. Pehla step jis folder mei git ko use krna hai --- us me git ko start yani k initilize krna pry ga
+    Usky k liye ye commnand use hoti hai 
+                                            git init
+
+2. Aik condition ye hoskti hai k ap github pr phely sy he aik repository bna k clone krlo to usmy phly sy he git initalize hoga 
+    Usky k liye ye command use hoti hai 
+                                            git clone "Repository ka link"
+
+3. Apni new files create krni hain ya kisi previous file ko edit krna hai to usky bad github pr ye change show krwany k liye ye steps krny prain gy :
+    USky liye ye commands use hoti hain :
+                * git add <file name>
