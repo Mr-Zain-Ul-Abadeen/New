@@ -9,3 +9,4 @@
 3. Apni new files create krni hain ya kisi previous file ko edit krna hai to usky bad github pr ye change show krwany k liye ye steps krny prain gy :
     USky liye ye commands use hoti hain :
                 * git add <file name>
+                * git commit -m "Jo b apny changes kiye hain usky mutabik message dy dain taky apko bad mei yad rhy 
